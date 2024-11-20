@@ -84,7 +84,7 @@ export default function HomePage() {
 					</Button>
 					<div className='text-center text-[clamp(40px,10vw,44px)] font-bold leading-[1.2] tracking-tighter sm:text-[64px]'>
 						<div className='bg-hero-section-title bg-gradient-to-r bg-clip-text text-transparent inline-block dark:from-[#FFFFFF] dark:to-[#FFFFFF66]'>
-							The Complete <br /> Productivity Suite
+							A complete data-driven<br /> bio-conservation suite
 						</div>
 					</div>
 					<p className='text-center font-normal leading-7 text-default-500 sm:w-[466px] sm:text-[18px]'>
