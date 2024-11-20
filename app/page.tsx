@@ -88,9 +88,9 @@ export default function HomePage() {
 						</div>
 					</div>
 					<p className='text-center font-normal leading-7 text-default-500 sm:w-[466px] sm:text-[18px]'>
-						Next generation productivity suite that helps you to manage all your
+						Next generation cyber-infrastructure allowing you to reach
 						<br />
-						life aspects in one place.
+						your hard-to-reach ecosystems.
 					</p>
 					<div className='flex flex-col items-center justify-center gap-3 sm:flex-row sm:gap-6'>
 						<Button
