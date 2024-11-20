@@ -39,9 +39,7 @@ const BasicNavbar = React.forwardRef<HTMLElement, NavbarProps>(
 				ref={ref}
 				{...props}
 				classNames={{
-					base: cn('border-default-100 bg-transparent', {
-						'bg-default-200/50 dark:bg-default-100/50': isMenuOpen,
-					}),
+					base: cn('border-default-100'),
 					wrapper: 'w-full justify-center items-center',
 					item: 'hidden md:flex',
 					...classNames,
@@ -53,7 +51,7 @@ const BasicNavbar = React.forwardRef<HTMLElement, NavbarProps>(
 				{/* Left Content */}
 				<NavbarBrand>
 					<Link className='' href='/'>
-						<Image alt='Idealism Logo' width={60} height={60} src='/logo.png' />
+						<Image alt='Cymbiosys Logo' width={60} height={60} src='/logo.png' />
 					</Link>
 				</NavbarBrand>
 

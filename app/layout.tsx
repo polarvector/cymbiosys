@@ -9,8 +9,8 @@ import { NextUIProvider } from '@nextui-org/react';
 const montserrat = Montserrat({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-	title: 'Home',
-	description: "Manish Shivabhakti's portfolio website",
+	title: 'Cymbiosys',
+	description: "The wave page",
 };
 
 export default function RootLayout({

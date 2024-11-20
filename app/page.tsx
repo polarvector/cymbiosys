@@ -83,7 +83,7 @@ export default function HomePage() {
 						Join the waitlist
 					</Button>
 					<div className='text-center text-[clamp(40px,10vw,44px)] font-bold leading-[1.2] tracking-tighter sm:text-[64px]'>
-						<div>
+						<div className='text-black'>
 							A complete data-driven<br /> bio-conservation suite
 						</div>
 					</div>
