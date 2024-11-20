@@ -19,7 +19,7 @@ export default function RootLayout({
 	children: React.ReactNode;
 }) {
 	return (
-		<html className='h-screen dark' lang='en'>
+		<html className='h-screen' lang='en'>
 			<Head>
 				<meta charSet='UTF-8' />
 				<meta name='viewport' content='width=device-width, initial-scale=1.0' />
