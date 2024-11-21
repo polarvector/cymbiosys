@@ -84,11 +84,11 @@ export default function HomePage() {
 					</Button>
 					<div className='text-center text-[clamp(40px,10vw,44px)] font-bold leading-[1.2] tracking-tighter sm:text-[64px]'>
 						<div className='text-black'>
-							A complete data-driven<br /> bio-conservation suite
+							Watch over entire ecosystems
 						</div>
 					</div>
 					<p className='text-center font-normal leading-7 text-default-500 sm:w-[466px] sm:text-[18px]'>
-						Next generation cyber-infrastructure allowing you to reach your hard-to-reach ecosystems.
+						by deploying our wireless sensor networks across them & utilising our data infrastructure.
 					</p>
 					<div className='flex flex-col items-center justify-center gap-3 sm:flex-row sm:gap-6'>
 						<Button

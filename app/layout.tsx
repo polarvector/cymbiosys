@@ -10,7 +10,7 @@ const montserrat = Montserrat({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
 	title: 'Cymbiosys',
-	description: "The wave page",
+	description: "Cym = Wave; for Bio Systems",
 };
 
 export default function RootLayout({
@@ -26,7 +26,7 @@ export default function RootLayout({
 				<meta name='description' content={metadata.description || ''} />
 				<title>
 					<>
-						{metadata.title} | The Idealism
+						{metadata.title} | Cymbiosys
 						{metadata.title}
 					</>
 				</title>
