@@ -6,19 +6,19 @@ import { Icon } from '@iconify/react';
 
 const faqs = [
 	{
-		title: 'What is a wireless sensor network?',
+		title: "What is a wireless sensor network?",
 		content:
-			'A web of 'nodes' capable of 'sensing' physical parameters & communicating with other nodes',
+			"A web of 'nodes' capable of 'sensing' physical parameters & communicating with other nodes",
 	},
 	{
-		title: 'How big will each node be?',
+		title: "How big will each node be?",
 		content:
-			'30mm x 30mm so far. Will only get smaller!',
+			"30mm x 30mm so far. Will only get smaller!",
 	},
 	{
-		title: 'What does it use to 'sense' things?',
+		title: "What does it use to 'sense' things?",
 		content:
-			'Sound waves to sense everything.',
+			"Sound waves to sense everything.",
 	},
 ];
 
