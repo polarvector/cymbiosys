@@ -130,7 +130,7 @@ export default function Component() {
 				</div>
 				<Spacer y={4} />
 				<p className='mt-1 text-center text-small text-default-400'>
-					&copy; {new Date().getFullYear()} The Ideal Company, Inc. All rights
+					&copy; {new Date().getFullYear()} Cymbiosys, Inc. All rights
 					reserved.
 				</p>
 			</div>
