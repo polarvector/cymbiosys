@@ -11,25 +11,25 @@ import {
 const socials = [
 	{
 		title: 'X',
-		link: 'https://x.com/The_Idealism',
+		link: 'https://x.com/cymbiosyss',
 		icon: faXTwitter,
 		color: '#ffffff',
 	},
-	{
+	/*{
 		title: 'Github',
 		link: 'https://github.com/the-idealism',
 		icon: faGithub,
 		color: '#ffffff',
-	},
+	},*/
 	{
 		title: 'LinkedIn',
-		link: 'https://www.linkedin.com/',
+		link: 'https://www.linkedin.com/company/cymbiosys',
 		icon: faLinkedin,
 		color: '#0077B5',
 	},
 	{
 		title: 'Instagram',
-		link: 'https://www.instagram.com/',
+		link: 'https://www.instagram.com/cymbiosyss',
 		icon: faInstagram,
 		color: '#FD1D1D',
 	},

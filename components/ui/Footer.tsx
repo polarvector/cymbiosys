@@ -41,25 +41,39 @@ const navLinks = [
 ];
 
 const socialItems = [
-	{
+	/*{
 		name: 'Facebook',
 		href: '#',
 		icon: (props: SocialIconProps) => (
 			<Icon {...props} icon='fontisto:facebook' />
 		),
+	},*/
+	{
+		name: 'LinkedIn',
+		href: 'https://www.linkedin.com/company/cymbiosys',
+		icon: (props: SocialIconProps) => (
+			<Icon {...props} icon='fontisto:linkedin' />
+		),
 	},
 	{
 		name: 'Instagram',
-		href: '#',
+		href: 'https://www.instagram.com/cymbiosyss',
 		icon: (props: SocialIconProps) => (
 			<Icon {...props} icon='fontisto:instagram' />
 		),
 	},
 	{
 		name: 'Twitter',
-		href: '#',
+		href: 'https://x.com/cymbiosyss',
 		icon: (props: SocialIconProps) => (
 			<Icon {...props} icon='fontisto:twitter' />
+		),
+	},
+	/*{
+		name: 'YouTube',
+		href: '#',
+		icon: (props: SocialIconProps) => (
+			<Icon {...props} icon='fontisto:youtube-play' />
 		),
 	},
 	{
@@ -68,14 +82,8 @@ const socialItems = [
 		icon: (props: SocialIconProps) => (
 			<Icon {...props} icon='fontisto:github' />
 		),
-	},
-	{
-		name: 'YouTube',
-		href: '#',
-		icon: (props: SocialIconProps) => (
-			<Icon {...props} icon='fontisto:youtube-play' />
-		),
-	},
+	},*/
+	
 ];
 
 export default function Component() {
